@@ -35,6 +35,11 @@
 
 #### Mac
 ##### 5.4、搜索利器：Alfred
-- ![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/Alfred.jpg)
+> 文件搜索
+> 网页搜索
+> 历史粘贴板
+> 快递查询
+> 天气查询
+![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/Alfred.jpg)
 ##### 5.5、取色软件：sip
-- ![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/sip.jpg)
+![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/sip.jpg)
