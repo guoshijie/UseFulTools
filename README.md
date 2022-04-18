@@ -13,7 +13,7 @@
 2|[removebg](https://www.remove.bg/zh/upload)
 
 ### 3、音频
-- [音乐搜索与下载]()
+- [音乐搜索与下载](https://github.com/guoshijie/UseFulTools/blob/main/03-audio/%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.png)
 
 ### 4、视频
 - 在线全网vip
@@ -21,9 +21,9 @@
 
 ### 5、软件
 #### Windows
-- ![Everything]()
-- 文件同步
-- 磁盘占用分析
+- ![Everything](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/Everything.PNG)
+- ![文件同步](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/FreeFileSync.PNG)
+- ![磁盘占用分析](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/SpaceSniffer.PNG)
 
 #### Mac
 - 搜索利器：Alfred
