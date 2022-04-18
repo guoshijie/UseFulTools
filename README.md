@@ -25,13 +25,13 @@
 2|[美剧天堂](https://www.meijutt.tv/)
 
 ### 5、软件
-#### [Windows精选小工具]()
+#### [Windows精选小工具](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows.md)
 - Everything
 - 文件同步
 - 磁盘占用分析
 
 
-#### [Mac精选小工具]()
+#### [Mac精选小工具](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac.md)
 - 搜索利器：Alfred
 - 取色软件：sip
 
