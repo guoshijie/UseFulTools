@@ -13,7 +13,7 @@
 2|[removebg](https://www.remove.bg/zh/upload)
 
 ### 3、音频
-- 音乐搜索与下载
+- [音乐搜索与下载]()
 
 ### 4、视频
 - 在线全网vip
@@ -21,7 +21,7 @@
 
 ### 5、软件
 #### Windows
-- Everything
+- ![Everything]()
 - 文件同步
 - 磁盘占用分析
 
