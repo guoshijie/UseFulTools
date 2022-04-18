@@ -25,21 +25,13 @@
 2|[美剧天堂](https://www.meijutt.tv/)
 
 ### 5、软件
-#### Windows
-##### 5.1、Everything
-![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/Everything.PNG)
-### 5.2、文件同步
-![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/FreeFileSync.PNG)
-### 5.3、磁盘占用分析
-![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/SpaceSniffer.PNG)
+#### [Windows精选小工具]()
+- Everything
+- 文件同步
+- 磁盘占用分析
 
-#### Mac
-##### 5.4、搜索利器：Alfred
-> 文件搜索
-> 网页搜索
-> 历史粘贴板
-> 快递查询
-> 天气查询
-![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/Alfred.jpg)
-##### 5.5、取色软件：sip
-![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/sip.jpg)
+
+#### [Mac精选小工具]()
+- 搜索利器：Alfred
+- 取色软件：sip
+
