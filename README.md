@@ -36,12 +36,12 @@
 
 ### 5、软件
 #### [Windows精选小工具](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows.md)
-- Everything
-- 文件同步
-- 磁盘占用分析
+- 文件搜索工具：Everything
+- 文件同步：FreeFileSync
+- 磁盘占用分析：SpaceSniffer
 
 
 #### [Mac精选小工具](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac.md)
-- 搜索利器：Alfred
-- 取色软件：sip
+- Mac搜索利器：Alfred
+- Mac取色软件：sip
 
