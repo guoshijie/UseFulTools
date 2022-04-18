@@ -29,5 +29,7 @@
 - ![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/windows/SpaceSniffer.PNG)
 
 #### Mac
-- 搜索利器：Alfred
-- 取色软件：sip
+##### 5.4、搜索利器：Alfred
+- ![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/Alfred.jpg)
+##### 5.5、取色软件：sip
+- ![](https://github.com/guoshijie/UseFulTools/blob/main/05-saftware/mac/sip.jpg)
