@@ -2,7 +2,8 @@
 ## 实用精选小工具
 
 
-  - [目录](#实用精选小工具)
+- [UseFulTools](#usefultools)
+  - [实用精选小工具](#实用精选小工具)
     - [1、文字](#1文字)
     - [2、图片](#2图片)
     - [3、音频](#3音频)
@@ -23,7 +24,7 @@
 2|[removebg](https://www.remove.bg/zh/upload)
 
 ### 3、音频
-- [音乐搜索与下载](https://github.com/guoshijie/UseFulTools/blob/main/03-audio/%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.png)
+- [音乐指南](https://github.com/guoshijie/UseFulTools/blob/main/03-audio/music.md)
 
 ### 4、视频
 - [在线视频vip](https://github.com/guoshijie/UseFulTools/blob/main/04-video/video.md)
